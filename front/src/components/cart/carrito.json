@@ -1,0 +1,36 @@
+{
+    "item": [
+        {
+            "_id": "63513206109735e58d94addd",
+            "producto": "Boitier Spirit of Gamer",
+            "precio": 2000000,
+            "imagen": "./images/productos/boitier.png",
+            "inventario": 10,
+            "__v": 0
+        },
+        {
+            "_id": "63513298109735e58d94ade0",
+            "nombre": "Boitier Gaming Ghost",
+            "precio": 1200000,
+            "imagen": "./images/productos/gamer.jpg",
+            "inventario": 14,
+            "__v": 0
+        },
+        {
+            "_id": "635132ea109735e58d94ade3",
+            "nombre": "Teclado Gamer Trust Azor",
+            "precio": 100000,
+            "imagen":  "./images/productos/teclado.jpeg",
+            "inventario": 20,
+            "__v": 0
+        },
+        {
+            "_id": "63513379109735e58d94ade6",
+            "nombre": "Teclado Una Mano Gamer",
+            "precio": 150000,
+            "imagen":"./images/productos/unamano.jpg",
+            "inventario": 200,
+            "__v": 0
+        }
+    ]
+}
